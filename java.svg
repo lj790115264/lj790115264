@@ -19,7 +19,7 @@
 </g>
 </g>
 <!-- IOpoint -->
-<g id="node196" class="node">
+<g id="node200" class="node">
 <title>IOpoint</title>
 <ellipse fill="#000000" stroke="#000000" cx="323" cy="-666" rx="1.8" ry="1.8"/>
 </g>
@@ -53,7 +53,7 @@
 <path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M279.0991,-433.3008C271.5062,-421.669 261.4218,-406.2206 253.8418,-394.6087"/>
 </g>
 <!-- NIOPt -->
-<g id="node197" class="node">
+<g id="node201" class="node">
 <title>NIOPt</title>
 <ellipse fill="#000000" stroke="#000000" cx="290" cy="-378" rx="1.8" ry="1.8"/>
 </g>
@@ -73,7 +73,7 @@
 </g>
 </g>
 <!-- 操作系统Pt -->
-<g id="node198" class="node">
+<g id="node202" class="node">
 <title>操作系统Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="513" cy="-666" rx="1.8" ry="1.8"/>
 </g>
@@ -234,7 +234,7 @@
 </g>
 </g>
 <!-- AbstractStringBuilderPt -->
-<g id="node205" class="node">
+<g id="node209" class="node">
 <title>AbstractStringBuilderPt</title>
 <ellipse fill="#000000" stroke="#000000" cx="909" cy="-306" rx="1.8" ry="1.8"/>
 </g>
@@ -288,7 +288,7 @@
 <path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M1652.5196,-577.6621C1643.5186,-565.8788 1631.4207,-550.0416 1622.431,-538.2733"/>
 </g>
 <!-- ExceptionPt -->
-<g id="node202" class="node">
+<g id="node206" class="node">
 <title>ExceptionPt</title>
 <ellipse fill="#000000" stroke="#000000" cx="1665" cy="-522" rx="1.8" ry="1.8"/>
 </g>
@@ -308,7 +308,7 @@
 </g>
 </g>
 <!-- ThrowablePt -->
-<g id="node201" class="node">
+<g id="node205" class="node">
 <title>ThrowablePt</title>
 <ellipse fill="#000000" stroke="#000000" cx="1638" cy="-666" rx="1.8" ry="1.8"/>
 </g>
@@ -473,7 +473,7 @@
 </g>
 </g>
 <!-- 引用数据类型Pt -->
-<g id="node209" class="node">
+<g id="node213" class="node">
 <title>引用数据类型Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="1913" cy="-522" rx="1.8" ry="1.8"/>
 </g>
@@ -484,7 +484,7 @@
 <polygon fill="#000000" stroke="#000000" points="1917.7252,-527.5371 1913.9238,-523.8476 1914.5947,-529.1024 1917.7252,-527.5371"/>
 </g>
 <!-- 基本数据类型Pt -->
-<g id="node208" class="node">
+<g id="node212" class="node">
 <title>基本数据类型Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="2022" cy="-234" rx="1.8" ry="1.8"/>
 </g>
@@ -527,7 +527,7 @@
 </g>
 </g>
 <!-- 代理Pt -->
-<g id="node206" class="node">
+<g id="node210" class="node">
 <title>代理Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="2141" cy="-666" rx="1.8" ry="1.8"/>
 </g>
@@ -734,7 +734,7 @@
 <path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M621,-287.8314C621,-277 621,-263.2876 621,-252.4133"/>
 </g>
 <!-- ReentrantLockPt -->
-<g id="node228" class="node">
+<g id="node232" class="node">
 <title>ReentrantLockPt</title>
 <ellipse fill="#000000" stroke="#000000" cx="549" cy="-234" rx="1.8" ry="1.8"/>
 </g>
@@ -824,7 +824,7 @@
 </g>
 </g>
 <!-- java数据类型Pt -->
-<g id="node207" class="node">
+<g id="node211" class="node">
 <title>java数据类型Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="1994" cy="-666" rx="1.8" ry="1.8"/>
 </g>
@@ -969,7 +969,7 @@
 </g>
 </g>
 <!-- java并发包Pt -->
-<g id="node216" class="node">
+<g id="node220" class="node">
 <title>java并发包Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="1125" cy="-666" rx="1.8" ry="1.8"/>
 </g>
@@ -980,7 +980,7 @@
 <polygon fill="#000000" stroke="#000000" points="1126.7501,-672.8067 1125,-667.8068 1123.2501,-672.8068 1126.7501,-672.8067"/>
 </g>
 <!-- java并发包Pt2 -->
-<g id="node220" class="node">
+<g id="node224" class="node">
 <title>java并发包Pt2</title>
 <ellipse fill="#000000" stroke="#000000" cx="729" cy="-666" rx="1.8" ry="1.8"/>
 </g>
@@ -1000,7 +1000,7 @@
 </g>
 </g>
 <!-- 同步结构Pt -->
-<g id="node217" class="node">
+<g id="node221" class="node">
 <title>同步结构Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="755" cy="-522" rx="1.8" ry="1.8"/>
 </g>
@@ -1020,7 +1020,7 @@
 </g>
 </g>
 <!-- 线程安全Pt -->
-<g id="node199" class="node">
+<g id="node203" class="node">
 <title>线程安全Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="909" cy="-522" rx="1.8" ry="1.8"/>
 </g>
@@ -1107,7 +1107,7 @@
 <path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M775.9009,-289.3008C783.4938,-277.669 793.5782,-262.2206 801.1582,-250.6087"/>
 </g>
 <!-- MonitorPt -->
-<g id="node200" class="node">
+<g id="node204" class="node">
 <title>MonitorPt</title>
 <ellipse fill="#000000" stroke="#000000" cx="765" cy="-234" rx="1.8" ry="1.8"/>
 </g>
@@ -1252,7 +1252,7 @@
 </g>
 </g>
 <!-- 线程安全的容器Pt -->
-<g id="node218" class="node">
+<g id="node222" class="node">
 <title>线程安全的容器Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="1125" cy="-522" rx="1.8" ry="1.8"/>
 </g>
@@ -1272,7 +1272,7 @@
 </g>
 </g>
 <!-- 并发队列Pt -->
-<g id="node221" class="node">
+<g id="node225" class="node">
 <title>并发队列Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="1330" cy="-522" rx="1.8" ry="1.8"/>
 </g>
@@ -1348,7 +1348,7 @@
 </g>
 </g>
 <!-- ListPt -->
-<g id="node210" class="node">
+<g id="node214" class="node">
 <title>ListPt</title>
 <ellipse fill="#000000" stroke="#000000" cx="2763" cy="-450" rx="1.8" ry="1.8"/>
 </g>
@@ -1411,10 +1411,13 @@
 <path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M2724.7933,-219.7751C2739.6949,-207.1525 2761.3505,-188.809 2776.2416,-176.1953"/>
 </g>
 <!-- Cloneable -->
-<g id="node239" class="node">
+<g id="node199" class="node">
 <title>Cloneable</title>
+<g id="a_node199"><a xlink:href="https://www.yuque.com/arkvie/uo8gda/ppvmhf#hlI0A" xlink:title="Cloneable" target="_blank">
 <ellipse fill="none" stroke="#000000" cx="2885" cy="-162" rx="27" ry="18"/>
 <text text-anchor="middle" x="2885" y="-159.6" font-family="Times,serif" font-size="8.00" fill="#000000">Cloneable</text>
+</a>
+</g>
 </g>
 <!-- ArrayList&#45;&gt;Cloneable -->
 <g id="edge224" class="edge">
@@ -1465,7 +1468,7 @@
 </g>
 </g>
 <!-- CollectionPt -->
-<g id="node211" class="node">
+<g id="node215" class="node">
 <title>CollectionPt</title>
 <ellipse fill="#000000" stroke="#000000" cx="2835" cy="-594" rx="1.8" ry="1.8"/>
 </g>
@@ -1523,7 +1526,7 @@
 <path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M2996.5696,-728.8812C2961.0813,-715.0695 2894.0798,-688.9932 2858.5316,-675.1582"/>
 </g>
 <!-- MapPt -->
-<g id="node212" class="node">
+<g id="node216" class="node">
 <title>MapPt</title>
 <ellipse fill="#000000" stroke="#000000" cx="3020" cy="-666" rx="1.8" ry="1.8"/>
 </g>
@@ -1543,7 +1546,7 @@
 </g>
 </g>
 <!-- hashmap -->
-<g id="node213" class="node">
+<g id="node217" class="node">
 <title>hashmap</title>
 <ellipse fill="none" stroke="#000000" cx="2979" cy="-522" rx="27" ry="18"/>
 <text text-anchor="middle" x="2979" y="-519.6" font-family="Times,serif" font-size="8.00" fill="#000000">hashmap</text>
@@ -1649,7 +1652,7 @@
 </g>
 </g>
 <!-- 阻塞队列Pt -->
-<g id="node219" class="node">
+<g id="node223" class="node">
 <title>阻塞队列Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="1489" cy="-378" rx="1.8" ry="1.8"/>
 </g>
@@ -1684,7 +1687,7 @@
 </g>
 </g>
 <!-- 有界阻塞队列Pt -->
-<g id="node222" class="node">
+<g id="node226" class="node">
 <title>有界阻塞队列Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="1407" cy="-234" rx="1.8" ry="1.8"/>
 </g>
@@ -1704,7 +1707,7 @@
 </g>
 </g>
 <!-- 无界阻塞队列Pt -->
-<g id="node223" class="node">
+<g id="node227" class="node">
 <title>无界阻塞队列Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="1618" cy="-234" rx="1.8" ry="1.8"/>
 </g>
@@ -1765,7 +1768,7 @@
 </g>
 </g>
 <!-- 线程池Pt -->
-<g id="node224" class="node">
+<g id="node228" class="node">
 <title>线程池Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="3344" cy="-666" rx="1.8" ry="1.8"/>
 </g>
@@ -1785,7 +1788,7 @@
 </g>
 </g>
 <!-- ExecutorsPt -->
-<g id="node226" class="node">
+<g id="node230" class="node">
 <title>ExecutorsPt</title>
 <ellipse fill="#000000" stroke="#000000" cx="3200" cy="-522" rx="1.8" ry="1.8"/>
 </g>
@@ -1806,7 +1809,7 @@
 </g>
 </g>
 <!-- ExecutorServicePt -->
-<g id="node225" class="node">
+<g id="node229" class="node">
 <title>ExecutorServicePt</title>
 <ellipse fill="#000000" stroke="#000000" cx="3488" cy="-522" rx="1.8" ry="1.8"/>
 </g>
@@ -1939,7 +1942,7 @@
 </g>
 </g>
 <!-- lock&#45;freePt -->
-<g id="node227" class="node">
+<g id="node231" class="node">
 <title>lock&#45;freePt</title>
 <ellipse fill="#000000" stroke="#000000" cx="1104" cy="-234" rx="1.8" ry="1.8"/>
 </g>
@@ -2037,7 +2040,7 @@
 </g>
 </g>
 <!-- 垃圾收集器Pt -->
-<g id="node235" class="node">
+<g id="node237" class="node">
 <title>垃圾收集器Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="3704" cy="-666" rx="1.8" ry="1.8"/>
 </g>
@@ -2120,7 +2123,7 @@
 </g>
 </g>
 <!-- 对象引用Pt -->
-<g id="node204" class="node">
+<g id="node208" class="node">
 <title>对象引用Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="4352" cy="-666" rx="1.8" ry="1.8"/>
 </g>
@@ -2167,7 +2170,7 @@
 </g>
 </g>
 <!-- 垃圾回收算法Pt -->
-<g id="node236" class="node">
+<g id="node238" class="node">
 <title>垃圾回收算法Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="4064" cy="-666" rx="1.8" ry="1.8"/>
 </g>
@@ -2465,7 +2468,7 @@
 <polygon fill="#000000" stroke="#000000" points="2453.7501,-617.4132 2452,-612.4133 2450.2501,-617.4133 2453.7501,-617.4132"/>
 </g>
 <!-- 线程Pt -->
-<g id="node215" class="node">
+<g id="node219" class="node">
 <title>线程Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="2499" cy="-594" rx="1.8" ry="1.8"/>
 </g>
@@ -2560,7 +2563,7 @@
 </g>
 </g>
 <!-- 运行时数据区域Pt -->
-<g id="node229" class="node">
+<g id="node233" class="node">
 <title>运行时数据区域Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="5000" cy="-666" rx="1.8" ry="1.8"/>
 </g>
@@ -2589,7 +2592,7 @@
 </g>
 </g>
 <!-- 栈Pt -->
-<g id="node230" class="node">
+<g id="node234" class="node">
 <title>栈Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="5000" cy="-522" rx="1.8" ry="1.8"/>
 </g>
@@ -2609,7 +2612,7 @@
 </g>
 </g>
 <!-- 堆Pt -->
-<g id="node233" class="node">
+<g id="node235" class="node">
 <title>堆Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="5072" cy="-522" rx="1.8" ry="1.8"/>
 </g>
@@ -2629,7 +2632,7 @@
 </g>
 </g>
 <!-- GC堆Pt -->
-<g id="node234" class="node">
+<g id="node236" class="node">
 <title>GC堆Pt</title>
 <ellipse fill="#000000" stroke="#000000" cx="5072" cy="-378" rx="1.8" ry="1.8"/>
 </g>
@@ -2695,6 +2698,44 @@
 <title>垃圾回收&#45;&gt;Stop&#45;The&#45;World</title>
 <path fill="none" stroke="#000000" d="M3596,-719.8314C3596,-710.6078 3596,-699.295 3596,-689.4246"/>
 <polygon fill="#000000" stroke="#000000" points="3597.7501,-689.4132 3596,-684.4133 3594.2501,-689.4133 3597.7501,-689.4132"/>
+</g>
+<!-- 本地方法栈 -->
+<g id="node196" class="node">
+<title>本地方法栈</title>
+<g id="a_node196"><a xlink:href="https://www.yuque.com/arkvie/uo8gda/ppvmhf#MDKOQ" xlink:title="本地方法栈" target="_blank">
+<ellipse fill="none" stroke="#000000" cx="4928" cy="-450" rx="27" ry="18"/>
+<text text-anchor="middle" x="4928" y="-449.2" font-family="Times,serif" font-size="8.00" fill="#000000">本地方法栈</text>
+</a>
+</g>
+</g>
+<!-- Java虚拟机栈 -->
+<g id="node197" class="node">
+<title>Java虚拟机栈</title>
+<g id="a_node197"><a xlink:href="https://www.yuque.com/arkvie/uo8gda/ppvmhf#MDKOQ" xlink:title="Java虚拟机栈" target="_blank">
+<ellipse fill="none" stroke="#000000" cx="5000" cy="-450" rx="27" ry="18"/>
+<text text-anchor="middle" x="5000" y="-449.2" font-family="Times,serif" font-size="8.00" fill="#000000">Java虚拟机栈</text>
+</a>
+</g>
+</g>
+<!-- JMM -->
+<g id="node198" class="node">
+<title>JMM</title>
+<g id="a_node198"><a xlink:href="https://www.yuque.com/arkvie/uo8gda/ppvmhf#JMM" xlink:title="JMM" target="_blank">
+<ellipse fill="none" stroke="#000000" cx="981" cy="-594" rx="27" ry="18"/>
+<text text-anchor="middle" x="981" y="-591.6" font-family="Times,serif" font-size="8.00" fill="#000000">JMM</text>
+</a>
+</g>
+</g>
+<!-- JMMPt -->
+<g id="node239" class="node">
+<title>JMMPt</title>
+<ellipse fill="#000000" stroke="#000000" cx="956" cy="-522" rx="1.8" ry="1.8"/>
+</g>
+<!-- JMM&#45;&gt;JMMPt -->
+<g id="edge214" class="edge">
+<title>JMM&#45;&gt;JMMPt</title>
+<path fill="none" stroke="#000000" d="M974.8202,-576.2022C969.5019,-560.8854 962.1121,-539.6029 958.3717,-528.8306"/>
+<polygon fill="#000000" stroke="#000000" points="959.9277,-527.9764 956.6344,-523.8271 956.6214,-529.1245 959.9277,-527.9764"/>
 </g>
 <!-- IOpoint&#45;&gt;同步阻塞IO -->
 <g id="edge2" class="edge">
@@ -2811,7 +2852,7 @@
 <polygon fill="#000000" stroke="#000000" points="1691.6948,-472.5235 1692.3657,-467.2687 1688.5643,-470.9582 1691.6948,-472.5235"/>
 </g>
 <!-- finalize -->
-<g id="node203" class="node">
+<g id="node207" class="node">
 <title>finalize</title>
 <ellipse fill="none" stroke="#000000" cx="4208" cy="-738" rx="27" ry="18"/>
 <text text-anchor="middle" x="4208" y="-735.6" font-family="Times,serif" font-size="8.00" fill="#000000">finalize</text>
@@ -2996,7 +3037,7 @@
 <polygon fill="#000000" stroke="#000000" points="3074.4793,-613.9956 3076.7774,-609.2226 3072.0044,-611.5207 3074.4793,-613.9956"/>
 </g>
 <!-- hashmapPoint -->
-<g id="node214" class="node">
+<g id="node218" class="node">
 <title>hashmapPoint</title>
 <ellipse fill="#000000" stroke="#000000" cx="2979" cy="-450" rx="1.8" ry="1.8"/>
 </g>
@@ -3318,23 +3359,11 @@
 <path fill="none" stroke="#000000" d="M5001.5038,-664.4962C5008.0543,-657.9457 5034.6004,-631.3996 5053.1767,-612.8233"/>
 <polygon fill="#000000" stroke="#000000" points="5054.4793,-613.9956 5056.7774,-609.2226 5052.0044,-611.5207 5054.4793,-613.9956"/>
 </g>
-<!-- 本地方法栈 -->
-<g id="node231" class="node">
-<title>本地方法栈</title>
-<ellipse fill="none" stroke="#000000" cx="4928" cy="-450" rx="27" ry="18"/>
-<text text-anchor="middle" x="4928" y="-449.2" font-family="Times,serif" font-size="8.00" fill="#000000">本地方法栈</text>
-</g>
 <!-- 栈Pt&#45;&gt;本地方法栈 -->
 <g id="edge192" class="edge">
 <title>栈Pt&#45;&gt;本地方法栈</title>
 <path fill="none" stroke="#000000" d="M4998.4962,-520.4962C4991.9457,-513.9457 4965.3996,-487.3996 4946.8233,-468.8233"/>
 <polygon fill="#000000" stroke="#000000" points="4947.9956,-467.5207 4943.2226,-465.2226 4945.5207,-469.9956 4947.9956,-467.5207"/>
-</g>
-<!-- Java虚拟机栈 -->
-<g id="node232" class="node">
-<title>Java虚拟机栈</title>
-<ellipse fill="none" stroke="#000000" cx="5000" cy="-450" rx="27" ry="18"/>
-<text text-anchor="middle" x="5000" y="-449.2" font-family="Times,serif" font-size="8.00" fill="#000000">Java虚拟机栈</text>
 </g>
 <!-- 栈Pt&#45;&gt;Java虚拟机栈 -->
 <g id="edge193" class="edge">
@@ -3426,11 +3455,6 @@
 <path fill="none" stroke="#000000" d="M4065.6172,-665.1914C4076.8408,-659.5796 4143.8018,-626.0991 4181.7664,-607.1168"/>
 <polygon fill="#000000" stroke="#000000" points="4182.5573,-608.678 4186.2468,-604.8766 4180.992,-605.5475 4182.5573,-608.678"/>
 </g>
-<!-- JMMPt -->
-<g id="node237" class="node">
-<title>JMMPt</title>
-<ellipse fill="#000000" stroke="#000000" cx="956" cy="-522" rx="1.8" ry="1.8"/>
-</g>
 <!-- JMMPt&#45;&gt;原子性 -->
 <g id="edge215" class="edge">
 <title>JMMPt&#45;&gt;原子性</title>
@@ -3448,18 +3472,6 @@
 <title>JMMPt&#45;&gt;有序性</title>
 <path fill="none" stroke="#000000" d="M954.8382,-520.2202C950.4596,-513.5126 934.6021,-489.2202 922.7573,-471.075"/>
 <polygon fill="#000000" stroke="#000000" points="924.0403,-469.839 919.8418,-466.6087 921.1095,-471.7522 924.0403,-469.839"/>
-</g>
-<!-- JMM -->
-<g id="node238" class="node">
-<title>JMM</title>
-<ellipse fill="none" stroke="#000000" cx="981" cy="-594" rx="27" ry="18"/>
-<text text-anchor="middle" x="981" y="-591.6" font-family="Times,serif" font-size="8.00" fill="#000000">JMM</text>
-</g>
-<!-- JMM&#45;&gt;JMMPt -->
-<g id="edge214" class="edge">
-<title>JMM&#45;&gt;JMMPt</title>
-<path fill="none" stroke="#000000" d="M974.8202,-576.2022C969.5019,-560.8854 962.1121,-539.6029 958.3717,-528.8306"/>
-<polygon fill="#000000" stroke="#000000" points="959.9277,-527.9764 956.6344,-523.8271 956.6214,-529.1245 959.9277,-527.9764"/>
 </g>
 <!-- StreamPt&#45;&gt;ReferencePipeline -->
 <g id="edge231" class="edge">
