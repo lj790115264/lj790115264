@@ -6,23 +6,17 @@ NIO[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#oOjQo"]
 Channel[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#Channel"]
 Buffer[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#Buffer"]
 Selector[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#Selector"]
-同步阻塞IO[label = "同步阻\n塞IO"
-    href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#8AbbK"]
+同步阻塞IO[label = "同步阻\n塞IO", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#8AbbK"]
 JavaIO[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#9iiZr"]
 Concurrent[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#GUJmc"]
-ConcurrentHashMap[label = "Concurrent\nHashMap"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#ConcurrentHashMap"]
-AbstractStringBuilder[label = "Abstract\nString\nBuilder"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#rQVN4"]
-LinkedHashMap[label = "Linked\nHashMap"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#LinkedHashMap"]
-RuntimeException[label = "Runtime\nException"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#XNu3U"]
+ConcurrentHashMap[label = "Concurrent\nHashMap", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#ConcurrentHashMap"]
+AbstractStringBuilder[label = "Abstract\nString\nBuilder", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#rQVN4"]
+LinkedHashMap[label = "Linked\nHashMap", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#LinkedHashMap"]
+RuntimeException[label = "Runtime\nException", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#XNu3U"]
 Exception[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#JxVy8"]
 Throwable[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#g16jL"]
 Error[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#tm6Jc"]
-静态常量池[label = "静态常\n量池"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#bTchb"]
+静态常量池[label = "静态常\n量池", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#bTchb"]
 boolean[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#GHlPN"]
 byte[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#hUhNC"]
 int[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#zoMTD"]
@@ -36,64 +30,43 @@ float[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#49xdO"]
 接口[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#kY5Az"]
 包装类[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#eBJ1Q"]
 
-引用数据类型[label = "引用数\n据类型"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#di92o"]
-基本数据类型[label = "基本数据\n类型"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#nTeV7"]
+引用数据类型[label = "引用数\n据类型", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#di92o"]
+基本数据类型[label = "基本数据\n类型", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#nTeV7"]
 RMI[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#RMI"]
 静态代理[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#v3qLf"]
 代理[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#GeOoZ"]
 反射[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#e34Vw"]
 动态代理[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#2SFvq"]
-JDK动态代理[label = "JDK动\n态代理"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#z6iuf"]
+JDK动态代理[label = "JDK动\n态代理", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#z6iuf"]
 cglib[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#9gHhZ"]
 字节码[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#wNlp4"]
 
 String[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#3ur1i"]
-StringBuilder[label = "String\nBuilder"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#qVumh"]
+StringBuilder[label = "String\nBuilder", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#qVumh"]
 final[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#2usui"]
 finally [href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#Aa58p"]
-StringBuffer[label = "String\nBuffer"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#NQmh2"]
-非运行时异常[label = "非运行\n时异常"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#1nokm"]
-ReentrantLock[label = "Reentrant\nLock"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#llgas"]
-synchronized[label = "synchron\nized"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#synchronized"]
-内核态空间[label = "内核态\n空间"
-    href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#78fd0e7f"]
-用户态空间[label = "用户态\n空间"
-    href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#NCCNV"]
-异步非阻塞IO[label = "异步非\n阻塞IO"
-    href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#lN3ew"]
-IO多路复用[label = "IO多路\n复用"
-    href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#ffed215a"]
-同步非阻塞IO[label = "同步非\n阻塞IO"
-    href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#UHOnF"]
-java数据类型[label = "java数\n据类型"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#6qwpv"]
-RUNNABLE[label = "RUNNABLE"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#qmpuD"]
-BLOCKED[label = "BLOCKED"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#j7LtB"]
+StringBuffer[label = "String\nBuffer", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#NQmh2"]
+非运行时异常[label = "非运行\n时异常", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#1nokm"]
+ReentrantLock[label = "Reentrant\nLock", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#llgas"]
+synchronized[label = "synchron\nized", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#synchronized"]
+内核态空间[label = "内核态\n空间", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#78fd0e7f"]
+用户态空间[label = "用户态\n空间", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#NCCNV"]
+异步非阻塞IO[label = "异步非\n阻塞IO", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#lN3ew"]
+IO多路复用[label = "IO多路\n复用", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#ffed215a"]
+同步非阻塞IO[label = "同步非\n阻塞IO", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#UHOnF"]
+java数据类型[label = "java数\n据类型", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#6qwpv"]
+RUNNABLE[label = "RUNNABLE", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#qmpuD"]
+BLOCKED[label = "BLOCKED", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#j7LtB"]
 WAITING[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#KUIjE"]
-TIMED_WAIT[label = "TIMED_WAIT"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#h6ZbO"]
-TERMINATED[label = "TERMINATED"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#281ry"]
+TIMED_WAIT[label = "TIMED_WAIT", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#h6ZbO"]
+TERMINATED[label = "TERMINATED", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#281ry"]
 JVM[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#vhP58"]
 守护线程[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#EiFpO"]
 死锁[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#60461afa"]
 jstack[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#DMiCt"]
-ThreadMXBean[label = "Thread\nMXBean"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#TRNPX"]
-银行家算法[label = "银行家算法"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#XWFV3"]
-java并发包[label = "java并发包"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#or8q4"]
+ThreadMXBean[label = "Thread\nMXBean", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#TRNPX"]
+银行家算法[label = "银行家算法", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#XWFV3"]
+java并发包[label = "java并发包", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#or8q4"]
 同步结构[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#97QtB"]
 线程安全[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#PlC74"]
 原子性[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#c5358102"]
@@ -108,21 +81,15 @@ Monitor[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#Monitor"]
 MarkWord[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#MarkWord"]
 CAS[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#OK7WW"]
 Lock[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#Lock"]
-ReadWriteLock[label = "ReadWrite\nLock"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#ReadWriteLock"]
+ReadWriteLock[label = "ReadWrite\nLock", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#ReadWriteLock"]
 LRU[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#LRU"]
-线程安全的容器[label = "线程安\n全的容器"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#xxyEP"]
+线程安全的容器[label = "线程安\n全的容器", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#xxyEP"]
 并发队列[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#QOR4e"]
-CountDownLatch[label = "CountDow\nnLatch"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#awkKR"]
-CyclicBarrier[label = "CyclicB\narrier"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#iYHUT"]
+CountDownLatch[label = "CountDow\nnLatch", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#awkKR"]
+CyclicBarrier[label = "CyclicB\narrier", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#iYHUT"]
 Sempahore[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#f4FUT"]
-ConcunrrentSkipListMap[label = "Concunrren\ntSkipL\nistMap"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#Gc7oZ"]
-CopyOnWriteArrayList[label = "CopyOnWr\niteArr\nayList"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#0NbOy"]
+ConcunrrentSkipListMap[label = "Concunrren\ntSkipL\nistMap", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#Gc7oZ"]
+CopyOnWriteArrayList[label = "CopyOnWr\niteArr\nayList", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#0NbOy"]
 List[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#List"]
 Vector[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#nqkej"]
 ArrayList[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#ASS0f"]
@@ -139,80 +106,48 @@ TreeMap[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#CJb0W"]
 负载因子[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#3OfYJ"]
 容量[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#0G1xv"]
 树化[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#O90jY"]
-ArrayBlockingQueue[label = "ArrayB\nlockin\ngQueue"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#STTNP"]
-SynchronousQueue[label = "Synchronou\nsQueue"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#u1nYz"]
-PriorityBlockingQueue[label = "PriorityB\nlockin\ngQueue"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#Xk8sH"]
-CopyOnWrite[label = "CopyOnWrite"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#EFGfr"]
+ArrayBlockingQueue[label = "ArrayB\nlockin\ngQueue", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#STTNP"]
+SynchronousQueue[label = "Synchronou\nsQueue", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#u1nYz"]
+PriorityBlockingQueue[label = "PriorityB\nlockin\ngQueue", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#Xk8sH"]
+CopyOnWrite[label = "CopyOnWrite", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#EFGfr"]
 阻塞队列[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#YtPvD"]
-非阻塞队列[label = "非阻塞队列"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#KGzBw"]
-有界阻塞队列[label = "有界阻塞队列"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#6OAKT"]
-无界阻塞队列[label = "无界阻塞队列"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#eBwMY"]
+非阻塞队列[label = "非阻塞队列", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#KGzBw"]
+有界阻塞队列[label = "有界阻塞队列", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#6OAKT"]
+无界阻塞队列[label = "无界阻塞队列", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#eBwMY"]
 Blocking[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#6gCZM"]
-LinkedBlockingQueue[label = "LinkedB\nlockin\ngQueue"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#jgkHJ"]
-DelayedQueue[label = "Delaye\ndQueue"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#cL379"]
-LinkedTransferQueue[label = "LinkedT\nransfe\nrQueue"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#jENG1"]
+LinkedBlockingQueue[label = "LinkedB\nlockin\ngQueue", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#jgkHJ"]
+DelayedQueue[label = "Delaye\ndQueue", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#cL379"]
+LinkedTransferQueue[label = "LinkedT\nransfe\nrQueue", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#jENG1"]
 线程池[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#byi3s"]
 Executors[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#DgbKT"]
-ExecutorService[label = "ExecutorS\nervice"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#ZG5IC"]
-ThreadPoolExecutor[label = "Thread\nPoolEx\necutor"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#TXLhH"]
-ForkJoinPool[label = "ForkJo\ninPool"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#HXr2A"]
-ScheduledThreadPoolExecutor[label = "Scheduled\nThread\nPoolEx\necutor"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#EIa2L"]
-newCachedThreadPool[label = "newCach\nedThre\nadPool"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#S3VSG"]
-newFixedThreadPool[label = "newFix\nedThre\nadPool"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#1nkSn"]
-newSingleThreadExecutor[label = "newSingleTh\nreadEx\necutor"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#JhUaN"]
-newSingleThreadScheduledExecutor[label = "newSinglne\nThreand\nSchednuled\nExecutor"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#zo0fN"]
-newWorkStealingPool[label = "newWork\nSteali\nngPool"
-    href = "newWorkStealingPool"]
-"work-steeling" [label = "work-steeling"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#cNP6V"
-]
+ExecutorService[label = "ExecutorS\nervice", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#ZG5IC"]
+ThreadPoolExecutor[label = "Thread\nPoolEx\necutor", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#TXLhH"]
+ForkJoinPool[label = "ForkJo\ninPool", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#HXr2A"]
+ScheduledThreadPoolExecutor[label = "Scheduled\nThread\nPoolEx\necutor", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#EIa2L"]
+newCachedThreadPool[label = "newCach\nedThre\nadPool", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#S3VSG"]
+newFixedThreadPool[label = "newFix\nedThre\nadPool", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#1nkSn"]
+newSingleThreadExecutor[label = "newSingleTh\nreadEx\necutor", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#JhUaN"]
+newSingleThreadScheduledExecutor[label = "newSinglne\nThreand\nSchednuled\nExecutor", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#zo0fN"]
+newWorkStealingPool[label = "newWork\nSteali\nngPool", href = "newWorkStealingPool"]
+"work-steeling" [label = "work-steeling", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#cNP6V"]
 "lock-free" [href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#AjbGb"]
 VarHandle[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#AsTu6"]
 Atomic[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#KHX7I"]
-AtomicFieldUpdater[label = "Atomic\nFieldU\npdater"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#Skius"]
-AtomicStampedReference[label = "AtomicStam\npedRef\nerence"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#GrWH5"]
-AtomicReference[label = "AtomicRef\nerence"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#llUTf"]
+AtomicFieldUpdater[label = "Atomic\nFieldU\npdater", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#Skius"]
+AtomicStampedReference[label = "AtomicStam\npedRef\nerence", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#GrWH5"]
+AtomicReference[label = "AtomicRef\nerence", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#llUTf"]
 AQS[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#3GNz1"]
-"LockSupport.park" [label = "LockSuppor\nt.park"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#n21Pm"
-]
+"LockSupport.park" [label = "LockSuppor\nt.park", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#n21Pm"]
 FairSync[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#I5bOT"]
-NonfairSync[label = "NonfairSync"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#soOwY"]
+NonfairSync[label = "NonfairSync", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#soOwY"]
 transient[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#BZQY4"]
 
-"Stop-The-World" [label = "Stop\nThe\nWorld"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#4XbCm"
-]
-垃圾收集器[label = "垃圾收集器"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#aREHe"]
+"Stop-The-World" [label = "Stop\nThe\nWorld", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#4XbCm"]
+垃圾收集器[label = "垃圾收集器", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#aREHe"]
 "Serial GC" [href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#wjYP8"]
 "ParNew GC" [href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#hN4Bt"]
 CMS[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#Fgtra"]
-"Parallel GC" [label = "Parallel GC"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#JUqAy"
-]
+"Parallel GC" [label = "Parallel GC", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#JUqAy"]
 "G1 GC" [href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#Eqqs4"]
 引用计数[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#fouuk"]
 gc[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#gc"]
@@ -220,19 +155,13 @@ gc[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#gc"]
 强引用[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#FdKVF"]
 软引用[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#JcRvt"]
 幻象引用[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#KmAPv"]
-垃圾回收算法[label = "垃圾回收算法"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#HyOQ9"]
+垃圾回收算法[label = "垃圾回收算法", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#HyOQ9"]
 复制算法[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#yrbpO"]
-可达性分析[label = "可达性分析"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#hWBHR"]
-标记清除算法[label = "标记清除算法"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#MWtKn"]
-标记整理算法[label = "标记整理算法"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#AWETg"]
-Serializable[label = "Serial\nizable"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#N3kEK"]
-ReferencePipeline[label = "ReferencePi\npeline"
-    href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#pBWII"]
+可达性分析[label = "可达性分析", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#hWBHR"]
+标记清除算法[label = "标记清除算法", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#MWtKn"]
+标记整理算法[label = "标记整理算法", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#AWETg"]
+Serializable[label = "Serial\nizable", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#N3kEK"]
+ReferencePipeline[label = "ReferencePi\npeline", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#pBWII"]
 Stream[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#UZBzY"]
 Stage[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#DtJw1"]
 Sink[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#o7t9d"]
@@ -242,10 +171,8 @@ Sink[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#o7t9d"]
 有状态[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#DmoM4"]
 短路[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#ESr5R"]
 非短路[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#KtsJG"]
-InputStream[label = "InputStream"
-    href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#m72kr"]
-OutputStream[label = "Output\nStream"
-    href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#UcaIi"]
+InputStream[label = "InputStream", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#m72kr"]
+OutputStream[label = "Output\nStream", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#UcaIi"]
 字节流[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#cCNCf"]
 字符流[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#ucWEr"]
 Reader[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#2jY4m"]
@@ -260,8 +187,7 @@ Executor[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#y3EkB"]
 双亲委派机制[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#Q9tJw"]
 tomcat类加载[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#EK6cE"]
 ASM[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#Aml92"]
-运行时数据区域[label = "运行时数据\n区域"
-    href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#6Dvzh"]
+运行时数据区域[label = "运行时数据\n区域", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#6Dvzh"]
 程序计数器[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#b0FQK"]
 栈[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#4JybT"]
 堆[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#3viun"]
@@ -279,7 +205,7 @@ TCP[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#o0Yb6"]
 三次握手[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#cP0pZ"]
 四次挥手[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#0a1s5"]
 RPC[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#DJqQi"]
-Netty[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#18R1D"]
+netty[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#18R1D"]
 主从Reactor[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#Ct5Yp"]
 单线程Reactor[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#uTdsz"]
 多线程Reactor[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#QZg76"]
@@ -287,10 +213,8 @@ epoll[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#5VMrk"]
 select[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#EylRk"]
 poll[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#QpnzP"]
 上下文切换[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#QHaNl"]
-自发性上下文切换[label = "自发性上\n下文切换"
-    href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#FQHRr"]
-非自发性上下文切换[label = "非自发性\n上下文\n切换"
-    href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#BmIeb"]
+自发性上下文切换[label = "自发性上\n下文切换", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#FQHRr"]
+非自发性上下文切换[label = "非自发性\n上下文\n切换", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#BmIeb"]
 NioEventLoop[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#APjxO"]
 ioRatio[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#InbPh"]
 epoll空轮询bug[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#QwL1a"]
@@ -308,8 +232,7 @@ idle[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#dubWA"]
 堆外内存[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#vT5o6"]
 serverSocket[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#H6t3K"]
 socket[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#GK5VH"]
-ServerSocketChannel[label = "Server\nSocket\nChannel"
-    href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#uefs9"]
+ServerSocketChannel[label = "Server\nSocket\nChannel", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#uefs9"]
 socketChannel[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#0oJsT"]
 OP_ACCEPT[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#Qd3Lh"]
 OP_CONNECT[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#ht0zh"]
@@ -319,21 +242,55 @@ main线程[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#oANBf"]
 boss线程[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#ld89P"]
 worker线程[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#gRPNT"]
 pipeline[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#IFtkX"]
-ChannelInBoundHandler[label = "Channel\nInBound\nHandler"
-    href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#gylrf"]
-ByteBufAllocato[label = "ByteBuf\nAllocato"
-    href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#heZDl"]
+ChannelInBoundHandler[label = "Channel\nInBound\nHandler", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#gylrf"]
+ByteBufAllocato[label = "ByteBuf\nAllocato", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#heZDl"]
 水位线[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#hd6u7"]
 ByteBuf[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#fRTK6"]
-channelFuture[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#Q1KpL"]
-netty调优系统参数[label = "netty\n调优\n系统参数"
-    href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#BQ5cN"]
-netty调优核心参数[label = "netty\n调优\n核心参数"
-    href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#2saGb"]
+ChannelFuture[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#Q1KpL"]
+netty调优系统参数[label = "netty\n调优\n系统参数", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#BQ5cN"]
+netty调优核心参数[label = "netty\n调优\n核心参数", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#2saGb"]
 ChannelHandler[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#l4quV"]
 内存泄漏[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#kzh6s"]
 流量整形[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#ixiap"]
-netty黑名单过滤[label = "netty\n黑名单\n过滤"
-    href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#2kFY8"]
+netty黑名单过滤[label = "netty\n黑名单\n过滤", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#oWmHY"]
 netty授权[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#2kFY8"]
-nettySSL加密[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#2kFY8"]
+nettySSL加密[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#mZS1w"]
+
+classloader[href = "https://www.yuque.com/arkvie/uo8gda/glg978#gOTHw", color = "red"]
+javaagent[href = "https://www.yuque.com/arkvie/uo8gda/glg978#olpWg", color = "red"]
+JDK_SPI[href = "https://www.yuque.com/arkvie/uo8gda/glg978#NQnf3", color = "red"]
+JDBC[href = "https://www.yuque.com/arkvie/uo8gda/glg978#AZLtn", color = "red"]
+JMX[href = "https://www.yuque.com/arkvie/uo8gda/glg978#tvuy4", color = "red"]
+javassist[href = "https://www.yuque.com/arkvie/uo8gda/glg978#uqZX3", color = "red"]
+insertAfter[href = "https://www.yuque.com/arkvie/uo8gda/glg978#E171a", color = "red"]
+insertAt[href = "https://www.yuque.com/arkvie/uo8gda/glg978#lagtb", color = "red"]
+dubbo[href = "https://www.yuque.com/arkvie/uo8gda/glg978#CYfB5", color = "red"]
+dubbo_负载均衡[label = "dubbo\n负载均衡", href = "https://www.yuque.com/arkvie/uo8gda/glg978#oxknP", color = "red"]
+dubbo_filter[label = "dubbo\nfilter", href = "https://www.yuque.com/arkvie/uo8gda/glg978#I1y7I", color = "red"]
+RpcContext[href = "https://www.yuque.com/arkvie/uo8gda/glg978#Sr1js", color = "red"]
+Spring[href = "https://www.yuque.com/arkvie/uo8gda/glg978#38A8k", color = "red"]
+IOC[href = "https://www.yuque.com/arkvie/uo8gda/glg978#v3ueL", color = "red"]
+DI[href = "https://www.yuque.com/arkvie/uo8gda/glg978#SXWHs", color = "red"]
+好莱坞原则[href = "https://www.yuque.com/arkvie/uo8gda/glg978#6bwd6", color = "red"]
+BeanFactory[href = "https://www.yuque.com/arkvie/uo8gda/glg978#7xs9D", color = "red"]
+ApplicationContext[label = "Application\nContext", href = "https://www.yuque.com/arkvie/uo8gda/glg978#EZ2hD", color = "red"]
+Bean_Definitionv[label = "Bean\nDefinitionv", href = "https://www.yuque.com/arkvie/uo8gda/glg978#JFCAh", color = "red"]
+FactoryBean[href = "https://www.yuque.com/arkvie/uo8gda/glg978#7YBFa", color = "red"]
+事务抽象[href = "https://www.yuque.com/arkvie/uo8gda/glg978#4KwFK", color = "red"]
+JDBC异常抽象[href = "https://www.yuque.com/arkvie/uo8gda/glg978#Yw433", color = "red"]
+Spring_Boot[label = "Spring\nBoot", href = "https://www.yuque.com/arkvie/uo8gda/glg978#G8uMT", color = "red"]
+Spring_Boot注解[label = "Spring\nBoot注解", href = "https://www.yuque.com/arkvie/uo8gda/glg978#BKayY", color = "red"]
+Actuator[href = "https://www.yuque.com/arkvie/uo8gda/glg978#XOLer", color = "red"]
+编程式事务[href = "https://www.yuque.com/arkvie/uo8gda/glg978#h1wQ8", color = "red"]
+声明式事务[href = "https://www.yuque.com/arkvie/uo8gda/glg978#roa7s", color = "red"]
+CPU缓存[href = "https://www.yuque.com/arkvie/uo8gda/glg978#xshNy", color = "red"]
+内存池[href = "https://www.yuque.com/arkvie/uo8gda/glg978#zMSQn", color = "red"]
+哈希[href = "https://www.yuque.com/arkvie/uo8gda/glg978#yFAUJ", color = "red"]
+开放寻址法[href = "https://www.yuque.com/arkvie/uo8gda/glg978#NKySJ", color = "red"]
+链表法[href = "https://www.yuque.com/arkvie/uo8gda/glg978#OBtUn", color = "red"]
+零拷贝[href = "https://www.yuque.com/arkvie/uo8gda/glg978#UNhOd", color = "red"]
+mmap[href = "https://www.yuque.com/arkvie/uo8gda/glg978#RYhWp", color = "red"]
+sendfile[href = "https://www.yuque.com/arkvie/uo8gda/glg978#8y0Wg", color = "red"]
+DMA[href = "https://www.yuque.com/arkvie/uo8gda/glg978#0rsKt", color = "red"]
+pagecache[href = "https://www.yuque.com/arkvie/uo8gda/glg978#dUhfN", color = "red"]
+socket缓冲区[href = "https://www.yuque.com/arkvie/uo8gda/glg978#CO2zO", color = "red"]
