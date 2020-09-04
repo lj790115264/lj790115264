@@ -116,13 +116,13 @@ digraph {
     SynchronousQueue[label = "Synchronou\nsQueue", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#u1nYz"]
     PriorityBlockingQueue[label = "PriorityB\nlockin\ngQueue", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#Xk8sH"]
     CopyOnWrite[label = "CopyOnWrite", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#EFGfr"]
-    阻塞队列[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#YtPvD"]
-    非阻塞队列[label = "非阻塞队列", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#KGzBw"]
+    阻塞队列[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#T2TvP"]
+    非阻塞队列[label = "非阻塞队列", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#8bLPR"]
     有界阻塞队列[label = "有界阻塞队列", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#6OAKT"]
     无界阻塞队列[label = "无界阻塞队列", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#eBwMY"]
     Blocking[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#6gCZM"]
     LinkedBlockingQueue[label = "LinkedB\nlockin\ngQueue", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#jgkHJ"]
-    DelayedQueue[label = "Delaye\ndQueue", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#cL379"]
+    delayqueue[label = "Delay\Queue", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#cL379"]
     LinkedTransferQueue[label = "LinkedT\nransfe\nrQueue", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#jENG1"]
     线程池[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#byi3s"]
     Executors[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#DgbKT"]
@@ -296,12 +296,24 @@ digraph {
     零拷贝[href = "https://www.yuque.com/arkvie/uo8gda/glg978#UNhOd"]
     mmap[href = "https://www.yuque.com/arkvie/uo8gda/glg978#RYhWp"]
     sendfile[href = "https://www.yuque.com/arkvie/uo8gda/glg978#8y0Wg"]
-    DMA[href = "https://www.yuque.com/arkvie/uo8gda/glg978#0rsKt"]
+    dma[href = "https://www.yuque.com/arkvie/uo8gda/glg978#0rsKt"]
     pagecache[href = "https://www.yuque.com/arkvie/uo8gda/glg978#dUhfN"]
     socket缓冲区[href = "https://www.yuque.com/arkvie/uo8gda/glg978#CO2zO"]
     字面量[href="https://www.yuque.com/arkvie/uo8gda/ppvmhf#GHB7m"]
     符号引用[href="https://www.yuque.com/arkvie/uo8gda/ppvmhf#KyaYF"]
     metaspace[href="https://www.yuque.com/arkvie/uo8gda/ppvmhf#p6IYo"]
+    常量池[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#8SfVy"]
+    字符串常量池[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#FvHLI"]
+    包装类对象常量池[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#xBn0u", label = "包装类\n对象常量池"]
+    全限定名[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#V1xoS"]
+    简单名称[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#FwnOK"]
+    描述符[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#ACJCM"]
+    字段描述符[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#Cjt5g"]
+    方法描述符[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#7ZfgR"]
+    分布式事务[href = "https://www.yuque.com/arkvie/uo8gda/rnguda#NUNfJ"]
+    kafka[href = "https://www.yuque.com/arkvie/uo8gda/rnguda#VuZ5t"]
+    rocketmq[href = "https://www.yuque.com/arkvie/uo8gda/rnguda#nG2I2"]
+    直接引用[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#HOZud"]
     ## 第一篇笔记
 
     IOpoint[shape=point]
@@ -370,7 +382,7 @@ digraph {
     引用数据类型 -> 引用数据类型Pt -> {数组 类 接口}[weight=100];
     类 -> 包装类[weight=100];
     包装类  ->  基本数据类型[style=dashed, weight=1, dir=none]
-    包装类  ->  静态常量池[style=dashed, weight=1, dir=none]
+    包装类  ->  包装类对象常量池 [style=dashed, weight=1, dir=none]
 
     ListPt[shape=point]
     List -> ListPt -> {Vector ArrayList LinkedList}[weight=100];
@@ -411,7 +423,7 @@ digraph {
     线程安全的容器 -> 线程安全的容器Pt -> {ConcurrentHashMap ConcunrrentSkipListMap CopyOnWriteArrayList}[weight=100]
 
     阻塞队列Pt[shape=point]
-    阻塞队列 -> 阻塞队列Pt -> {ArrayBlockingQueue SynchronousQueue PriorityBlockingQueue}[weight=100]
+    阻塞队列 -> 阻塞队列Pt -> {SynchronousQueue}[weight=100]
     CountDownLatch -> CyclicBarrier[style=dashed, weight=1, dir=none]
 
     java并发包Pt2[shape=point]
@@ -427,7 +439,7 @@ digraph {
     有界阻塞队列 -> 有界阻塞队列Pt -> {ArrayBlockingQueue LinkedBlockingQueue}[weight=100]
 
     无界阻塞队列Pt[shape=point]
-    无界阻塞队列 -> 无界阻塞队列Pt -> {PriorityBlockingQueue DelayedQueue LinkedTransferQueue}[weight=100]
+    无界阻塞队列 -> 无界阻塞队列Pt -> {PriorityBlockingQueue delayqueue LinkedTransferQueue}[weight=100]
 
     线程池Pt[shape=point]
     线程池 -> 线程池Pt -> {Executors  ExecutorService}
@@ -577,13 +589,20 @@ digraph {
     哈希 -> 哈希Pt -> {开放寻址法 链表法}
     零拷贝Pt[shape=point]
     零拷贝 -> 零拷贝Pt -> {mmap sendfile}
-    sendfile -> DMA
+    sendfile -> dma
     零拷贝 -> {pagecache socket缓冲区}[style=dashed, weight=1, dir=none]
     cpu -> {上下文切换 CPU缓存}[weight=100]
     spi -> jdk_spi[weight=100]
-
     静态常量池 -> {字面量 符号引用}[weight=100]
     静态常量池 -> 运行时常量池[style=dashed, weight=1, dir=none]
     gc堆Pt -> metaspace[weight=100]
     metaspace -> 方法区[style=dashed, weight=1, dir=none]
+    常量池Pt[shape=point]
+    常量池 -> 常量池Pt -> {运行时常量池 字符串常量池 静态常量池 包装类对象常量池}[weight=100]
+    符号引用Pt[shape=point]
+    符号引用 -> 符号引用Pt -> {全限定名 简单名称 描述符}[weight=100]
+    描述符Pt[shape=point]
+    描述符 -> 描述符Pt -> {字段描述符 方法描述符}[weight=100]
+    分布式事务 -> {kafka rocketmq}[style=dashed, weight=1, dir=none]
+    直接引用 -> {符号引用 类加载}[style=dashed, weight=1, dir=none]
 }
