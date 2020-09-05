@@ -14,10 +14,10 @@ digraph {
     Selector[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#Selector"]
     同步阻塞IO[label = "同步阻\n塞IO", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#8AbbK"]
     JavaIO[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#9iiZr"]
-    Concurrent[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#GUJmc"]
-    ConcurrentHashMap[label = "Concurrent\nHashMap", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#ConcurrentHashMap"]
+    concurrent[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#GUJmc"]
+    concurrenthashmap[label = "Concurrent\nHashMap", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#ConcurrentHashMap"]
     AbstractStringBuilder[label = "Abstract\nString\nBuilder", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#rQVN4"]
-    LinkedHashMap[label = "Linked\nHashMap", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#LinkedHashMap"]
+    linkedhashmap[label = "Linked\nHashMap", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#LinkedHashMap"]
     RuntimeException[label = "Runtime\nException", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#XNu3U"]
     Exception[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#JxVy8"]
     Throwable[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#g16jL"]
@@ -93,9 +93,9 @@ digraph {
     并发队列[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#QOR4e"]
     CountDownLatch[label = "CountDow\nnLatch", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#awkKR"]
     CyclicBarrier[label = "CyclicB\narrier", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#iYHUT"]
-    Sempahore[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#f4FUT"]
+    Semaphore[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#f4FUT"]
     ConcunrrentSkipListMap[label = "Concunrren\ntSkipL\nistMap", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#Gc7oZ"]
-    CopyOnWriteArrayList[label = "CopyOnWr\niteArr\nayList", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#0NbOy"]
+    copyonwritearraylist[label = "CopyOnWrite\nArrayList", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#0NbOy"]
     List[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#List"]
     Vector[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#nqkej"]
     ArrayList[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#ASS0f"]
@@ -107,7 +107,7 @@ digraph {
     Deque[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#xdDkz"]
     Map[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#fl5cs"]
     Hashtable[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#3Hqgq"]
-    HashMap[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#QgylV"]
+    hashmap[label ="HashMap", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#QgylV"]
     TreeMap[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#CJb0W"]
     负载因子[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#3OfYJ"]
     容量[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#0G1xv"]
@@ -115,12 +115,12 @@ digraph {
     ArrayBlockingQueue[label = "ArrayB\nlockin\ngQueue", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#STTNP"]
     SynchronousQueue[label = "Synchronou\nsQueue", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#u1nYz"]
     PriorityBlockingQueue[label = "PriorityB\nlockin\ngQueue", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#Xk8sH"]
-    CopyOnWrite[label = "CopyOnWrite", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#EFGfr"]
+    copyonwrite[label = "CopyOnWrite", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#EFGfr"]
     阻塞队列[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#T2TvP"]
     非阻塞队列[label = "非阻塞队列", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#8bLPR"]
     有界阻塞队列[label = "有界阻塞队列", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#6OAKT"]
     无界阻塞队列[label = "无界阻塞队列", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#eBwMY"]
-    Blocking[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#6gCZM"]
+    blocking[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#6gCZM"]
     LinkedBlockingQueue[label = "LinkedB\nlockin\ngQueue", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#jgkHJ"]
     delayqueue[label = "Delay\Queue", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#cL379"]
     LinkedTransferQueue[label = "LinkedT\nransfe\nrQueue", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#jENG1"]
@@ -156,7 +156,7 @@ digraph {
     "Parallel GC" [label = "Parallel GC", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#JUqAy"]
     "G1 GC" [href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#Eqqs4"]
     引用计数[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#fouuk"]
-    gc[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#gc"]
+    gc[label = "GC", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#gc"]
     对象引用[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#b7577029"]
     强引用[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#FdKVF"]
     软引用[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#JcRvt"]
@@ -166,7 +166,7 @@ digraph {
     可达性分析[label = "可达性分析", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#hWBHR"]
     标记清除算法[label = "标记清除算法", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#MWtKn"]
     标记整理算法[label = "标记整理算法", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#AWETg"]
-    Serializable[label = "Serial\nizable", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#N3kEK"]
+    Serializable[label = "Serializable", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#N3kEK"]
     ReferencePipeline[label = "ReferencePi\npeline", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#pBWII"]
     Stream[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#UZBzY"]
     Stage[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#DtJw1"]
@@ -202,7 +202,6 @@ digraph {
     运行时常量池[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#60oG4"]
     新生代[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#ILbJp"]
     老年代[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#VJM8v"]
-    垃圾回收[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#aG22q"]
     本地方法栈[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#MDKOQ"]
     Java虚拟机栈[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#MDKOQ"]
     JMM[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#JMM"]
@@ -314,6 +313,9 @@ digraph {
     kafka[href = "https://www.yuque.com/arkvie/uo8gda/rnguda#VuZ5t"]
     rocketmq[href = "https://www.yuque.com/arkvie/uo8gda/rnguda#nG2I2"]
     直接引用[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#HOZud"]
+    concurrentlinkeddeque[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#W6vsj", label = "Concurrent\nLinked\nDeque"]
+    concurrentlinkedqueue[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#LWkMr", label = "Concurrent\nLinked\nQueue"]
+    copyonwritearrayset[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#csWtZ", label = "CopyOnWrite\nArraySet"]
     ## 第一篇笔记
 
     IOpoint[shape=point]
@@ -335,7 +337,6 @@ digraph {
 
     线程安全Pt[shape=point]
     线程安全 -> 线程安全Pt -> {原子性,可见性,有序性}[weight=100];
-    可见性 -> volatile[style=dashed, weight=1, dir=none]
     synchronized  ->  Monitor[style=dashed, weight=1, dir=none]
     Monitor  ->  互斥锁[style=dashed, weight=1, dir=none]
 
@@ -344,8 +345,8 @@ digraph {
 
     轻量级锁 ->  {MarkWord CAS}[style=dashed, weight=1, dir=none]
     Lock  ->  ReadWriteLock[style=dashed, weight=1, dir=none]
-    ConcurrentHashMap  ->  volatile[style=dashed, weight=1, dir=none]
-    LRU  ->   LinkedHashMap[style=dashed, weight=1, dir=none]
+    concurrenthashmap  ->  volatile[style=dashed, weight=1, dir=none]
+    LRU  ->   linkedhashmap[style=dashed, weight=1, dir=none]
 
     ThrowablePt[shape=point]
     Throwable -> ThrowablePt -> {Exception Error}[weight=100];
@@ -394,7 +395,7 @@ digraph {
     Queue -> Deque[weight=100];
 
     MapPt[shape=point]
-    Map -> MapPt -> {Hashtable, HashMap, TreeMap}[weight=100];
+    Map -> MapPt -> {Hashtable, hashmap, TreeMap}[weight=100];
 
     Hashtable  ->  hashmap[style=dashed, weight=1, dir=none]
 
@@ -417,17 +418,17 @@ digraph {
     java并发包 -> java并发包Pt -> {同步结构 线程安全的容器 并发队列 Executor}[weight=100]
 
     同步结构Pt[shape=point]
-    同步结构 -> 同步结构Pt -> {CountDownLatch CyclicBarrier Sempahore}[weight=100]
+    同步结构 -> 同步结构Pt -> {CountDownLatch CyclicBarrier Semaphore}[weight=100]
 
     线程安全的容器Pt[shape=point]
-    线程安全的容器 -> 线程安全的容器Pt -> {ConcurrentHashMap ConcunrrentSkipListMap CopyOnWriteArrayList}[weight=100]
+    线程安全的容器 -> 线程安全的容器Pt -> {concurrenthashmap ConcunrrentSkipListMap copyonwritearraylist}[weight=100]
 
     阻塞队列Pt[shape=point]
     阻塞队列 -> 阻塞队列Pt -> {SynchronousQueue}[weight=100]
     CountDownLatch -> CyclicBarrier[style=dashed, weight=1, dir=none]
 
     java并发包Pt2[shape=point]
-    java并发包 -> java并发包Pt2 -> {Concurrent CopyOnWrite Blocking}
+    java并发包 -> java并发包Pt2 -> {concurrent copyonwrite blocking}
 
     并发队列Pt[shape=point]
     并发队列 -> 并发队列Pt -> {非阻塞队列 阻塞队列}[weight=100]
@@ -481,7 +482,7 @@ digraph {
 
     gc堆Pt[shape=point]
     gc堆 -> gc堆Pt -> {新生代 老年代}[weight=100]
-    垃圾回收 -> "Stop-The-World"[weight=100]
+    gc -> "Stop-The-World"[weight=100]
 
     垃圾收集器Pt[shape=point]
     垃圾收集器 -> 垃圾收集器Pt -> {"Serial GC" "ParNew GC" "CMS" "Parallel GC" "G1 GC"}[weight=100]
@@ -605,4 +606,18 @@ digraph {
     描述符 -> 描述符Pt -> {字段描述符 方法描述符}[weight=100]
     分布式事务 -> {kafka rocketmq}[style=dashed, weight=1, dir=none]
     直接引用 -> {符号引用 类加载}[style=dashed, weight=1, dir=none]
+    非阻塞队列 -> {concurrentlinkeddeque concurrentlinkedqueue}[weight=100]
+    阻塞队列 -> concurrentlinkedqueue[style=dashed, weight=1, dir=none]
+    copyonwrite -> {copyonwritearraylist copyonwritearrayset}[weight=100]
+    concurrentPt[shape=point]
+    concurrent -> concurrentPt -> {concurrenthashmap concurrentlinkedqueue concurrentlinkeddeque}[weight=100]
+    blocking -> 阻塞队列[weight=100]
+    hashmap -> linkedhashmap[weight=100]
+    Lock -> ReentrantLock[weight=100]
+    JMMPt1[shape=point]
+    JMM -> JMMPt1 -> {volatile synchronized}[weight=100]
+    Semaphore -> AQS[style=dashed, weight=1, dir=none]
+    java并发包Pt -> {AQS Lock}[weight=100]
+    JVM -> {运行时数据区域 gc}[weight=100]
+    gc -> {垃圾收集器 垃圾回收算法}[weight=100]
 }
