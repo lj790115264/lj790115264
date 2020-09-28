@@ -20,7 +20,7 @@ digraph {
     linkedhashmap[label = "Linked\nHashMap", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#LinkedHashMap"]
     RuntimeException[label = "Runtime\nException", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#XNu3U"]
     Exception[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#JxVy8"]
-    Throwable[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#g16jL"]
+    throwable[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#g16jL"]
     Error[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#tm6Jc"]
     静态常量池[label = "静态常\n量池", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#bTchb"]
     boolean[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#GHlPN"]
@@ -72,7 +72,7 @@ digraph {
     jstack[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#DMiCt"]
     ThreadMXBean[label = "Thread\nMXBean", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#TRNPX"]
     银行家算法[label = "银行家算法", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#XWFV3"]
-    java并发包[label = "java并发包", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#or8q4"]
+    juc[label = "JUC", href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#or8q4"]
     同步结构[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#97QtB"]
     线程安全[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#PlC74"]
     原子性[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#c5358102"]
@@ -196,14 +196,13 @@ digraph {
     运行时数据区域[label = "运行时数据\n区域", href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#6Dvzh"]
     程序计数器[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#b0FQK"]
     栈[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#4JybT"]
-    堆[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#3viun"]
     gc堆[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#x5j6b"]
     方法区[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#YAnqh"]
     运行时常量池[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#60oG4"]
     新生代[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#ILbJp"]
     老年代[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#VJM8v"]
     本地方法栈[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#MDKOQ"]
-    Java虚拟机栈[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#MDKOQ"]
+    java虚拟机栈[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#MDKOQ"]
     JMM[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#JMM"]
     Cloneable[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#hlI0A"]
     TCP[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#o0Yb6"]
@@ -211,7 +210,7 @@ digraph {
     四次挥手[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#0a1s5"]
     RPC[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#DJqQi"]
     netty[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#18R1D"]
-    主从Reactor[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#Ct5Yp"]
+    主从Reactor[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#2CkAV"]
     单线程Reactor[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#uTdsz"]
     多线程Reactor[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#QZg76"]
     epoll[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#5VMrk"]
@@ -237,7 +236,7 @@ digraph {
     堆外内存[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#vT5o6"]
     serverSocket[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#H6t3K"]
     socket[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#GK5VH"]
-    ServerSocketChannel[label = "Server\nSocket\nChannel", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#uefs9"]
+    ServersocketChannel[label = "Server\nSocket\nChannel", href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#uefs9"]
     socketChannel[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#0oJsT"]
     OP_ACCEPT[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#Qd3Lh"]
     OP_CONNECT[href = "https://www.yuque.com/arkvie/uo8gda/cnenuk#ht0zh"]
@@ -316,6 +315,22 @@ digraph {
     concurrentlinkeddeque[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#W6vsj", label = "Concurrent\nLinked\nDeque"]
     concurrentlinkedqueue[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#LWkMr", label = "Concurrent\nLinked\nQueue"]
     copyonwritearrayset[href = "https://www.yuque.com/arkvie/uo8gda/hrvg5z#csWtZ", label = "CopyOnWrite\nArraySet"]
+    javautil[label="java.util"]
+    本地内存[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#01Pgo"]
+    JVM虚拟机数据区[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#44YQz", label = "JVM虚拟\n机数据区"]
+    直接内存[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#rSPyy"]
+    永生代[href = "https://www.yuque.com/arkvie/uo8gda/ppvmhf#jSxDT"]
+    spring_spi[label = "spring spi", href = "https://www.yuque.com/arkvie/uo8gda/ud7uxo#IVQRZ"]
+    SpringFactoriesLoader[label = "SpringFactor\niesLoader", href = "https://www.yuque.com/arkvie/uo8gda/ud7uxo#J8Jso"]
+    mybatis[href = "https://www.yuque.com/arkvie/uo8gda/ud7uxo#UOyBi"]
+    pagehelper[href = "https://www.yuque.com/arkvie/uo8gda/ud7uxo#K7xrC"]
+    缓存抽象[href = "https://www.yuque.com/arkvie/uo8gda/ud7uxo#60vRi"]
+    manifest[label = "manifest.mf", href = "https://www.yuque.com/arkvie/uo8gda/ud7uxo#buadG"]
+
+    ##
+    javautil -> {Map Collection juc Stream}
+    JVM -> JMX[style=dashed, weight=1, dir=none]
+
     ## 第一篇笔记
 
     IOpoint[shape=point]
@@ -348,8 +363,8 @@ digraph {
     concurrenthashmap  ->  volatile[style=dashed, weight=1, dir=none]
     LRU  ->   linkedhashmap[style=dashed, weight=1, dir=none]
 
-    ThrowablePt[shape=point]
-    Throwable -> ThrowablePt -> {Exception Error}[weight=100];
+    throwablePt[shape=point]
+    throwable -> throwablePt -> {Exception Error}[weight=100];
 
     ExceptionPt[shape=point]
     Exception -> ExceptionPt -> {RuntimeException 非运行时异常}[weight=100]
@@ -404,7 +419,7 @@ digraph {
 
     ################222222#####################
 
-    线程 -> {内核线程, 用户线程}[weight=100]
+    线程 -> {内核线程, 用户线程, 守护线程}[weight=100]
     进程 -> 线程[style=dashed, weight=1, dir=none]
     
     线程Pt[shape=point]
@@ -414,8 +429,8 @@ digraph {
     死锁 -> Monitor[style=dashed, weight=1, dir=none]
     死锁 -> 银行家算法[style=dashed, weight=1, dir=none]
 
-    java并发包Pt[shape=point]
-    java并发包 -> java并发包Pt -> {同步结构 线程安全的容器 并发队列 Executor}[weight=100]
+    jucPt[shape=point]
+    juc -> jucPt -> {同步结构 线程安全的容器 并发队列 Executor}[weight=100]
 
     同步结构Pt[shape=point]
     同步结构 -> 同步结构Pt -> {CountDownLatch CyclicBarrier Semaphore}[weight=100]
@@ -427,8 +442,8 @@ digraph {
     阻塞队列 -> 阻塞队列Pt -> {SynchronousQueue}[weight=100]
     CountDownLatch -> CyclicBarrier[style=dashed, weight=1, dir=none]
 
-    java并发包Pt2[shape=point]
-    java并发包 -> java并发包Pt2 -> {concurrent copyonwrite blocking}
+    jucPt2[shape=point]
+    juc -> jucPt2 -> {concurrent copyonwrite blocking}
 
     并发队列Pt[shape=point]
     并发队列 -> 并发队列Pt -> {非阻塞队列 阻塞队列}[weight=100]
@@ -470,18 +485,11 @@ digraph {
     cglib -> ASM[style=dashed, weight=1, dir=none]
     jdk动态代理 -> 字节码[style=dashed, weight=1, dir=none]
 
-    运行时数据区域Pt[shape=point]
-    运行时数据区域 -> 运行时数据区域Pt -> {程序计数器 栈 堆}[weight=100]
-
     栈Pt[shape=point]
-    栈 -> 栈Pt -> {本地方法栈 Java虚拟机栈}[weight=100] 
+    栈 -> 栈Pt -> {本地方法栈 java虚拟机栈}[weight=100] 
 
-    堆Pt[shape=point]
-    堆 -> 堆Pt -> {gc堆 方法区}[weight=100]
     方法区 -> 运行时常量池
 
-    gc堆Pt[shape=point]
-    gc堆 -> gc堆Pt -> {新生代 老年代}[weight=100]
     gc -> "Stop-The-World"[weight=100]
 
     垃圾收集器Pt[shape=point]
@@ -494,12 +502,12 @@ digraph {
     JMMPt[shape=point]
     JMM -> JMMPt -> {可见性 有序性 原子性}[weight=100]
     原子性 -> synchronized[style=dashed, weight=1, dir=none]
-    可见性 -> {volatile synchronized final}[style=dashed, weight=1, dir=none]
-    有序性 -> {volatile synchronized}[style=dashed, weight=1, dir=none]
-    ArrayList -> Cloneable[style=dashed, weight=1, dir=none]
-    ArrayList -> {transient Serializable}[style=dashed, weight=1, dir=none]
-    LinkedList -> Cloneable[style=dashed, weight=1, dir=none]
-    LinkedList -> {transient Serializable}[style=dashed, weight=1, dir=none]
+    {volatile synchronized final} -> 可见性[style=dashed, weight=1, dir=none]
+    {volatile synchronized} -> 有序性[style=dashed, weight=1, dir=none]
+    Cloneable -> ArrayList[style=dashed, weight=1, dir=none]
+    {transient Serializable} -> ArrayList[style=dashed, weight=1, dir=none]
+    Cloneable -> LinkedList[style=dashed, weight=1, dir=none]
+    {transient Serializable} -> LinkedList[style=dashed, weight=1, dir=none]
     
     StreamPt[shape=point]
     Stream -> StreamPt -> {ReferencePipeline Stage Sink}[weight=100]
@@ -552,14 +560,14 @@ digraph {
     netty -> nettyPt2 -> {一次解码器 二次解码器}[weight=100]
     netty -> {内存池 堆外内存}[style=dashed, weight=1, dir=none]
     serverSocket -> {socket}[style=dashed, weight=1, dir=none]
-    netty -> nettyPt1 {selector Channel}[weight=100]
-    ServerSocketChannel -> socketChannel[style=dashed, weight=1, dir=none]
+    nettyPt1 -> {selector Channel}[weight=100]
+    ServersocketChannel -> socketChannel[style=dashed, weight=1, dir=none]
     ChannelPt[shape=point]
-    Channel -> ChannelPt -> {ServerSocketChannel socketChannel}[weight=100]
+    Channel -> ChannelPt -> {ServersocketChannel socketChannel}[weight=100]
     selectorPt[shape=point]
     selector -> selectorPt -> {OP_ACCEPT OP_CONNECT OP_READ OP_WRITE}[weight=100]
-    ServerSocketChannel -> OP_ACCEPT[style=dashed, weight=1, dir=none]
-    SocketChannel -> {OP_CONNECT OP_READ OP_WRITE}[style=dashed, weight=1, dir=none]
+    ServersocketChannel -> OP_ACCEPT[style=dashed, weight=1, dir=none]
+    socketChannel -> {OP_CONNECT OP_READ OP_WRITE}[style=dashed, weight=1, dir=none]
     nettyPt3[shape=point]
     netty -> nettyPt3 -> {main线程 boss线程 worker线程}[weight=100]
     nettyPt4[shape=point]
@@ -578,7 +586,7 @@ digraph {
     spring -> springPt -> {IOC DI}[weight=100]
     IOC -> 好莱坞原则[style=dashed, weight=1, dir=none]
     springPt2[shape=point]
-    spring -> springPt2 -> {BeanFactory 事务抽象 JDBC异常抽象 FactoryBean Bean spring_boot}[weight=100]
+    spring -> springPt2 -> {BeanFactory 事务抽象 JDBC异常抽象 FactoryBean Bean spring_boot 缓存抽象}[weight=100]
     BeanFactory -> ApplicationContext[weight=100]
     Bean -> Bean_Definition[weight=100]
     FactoryBean -> BeanFactory[style=dashed, weight=1, dir=none]
@@ -596,8 +604,6 @@ digraph {
     spi -> jdk_spi[weight=100]
     静态常量池 -> {字面量 符号引用}[weight=100]
     静态常量池 -> 运行时常量池[style=dashed, weight=1, dir=none]
-    gc堆Pt -> metaspace[weight=100]
-    metaspace -> 方法区[style=dashed, weight=1, dir=none]
     常量池Pt[shape=point]
     常量池 -> 常量池Pt -> {运行时常量池 字符串常量池 静态常量池 包装类对象常量池}[weight=100]
     符号引用Pt[shape=point]
@@ -617,7 +623,21 @@ digraph {
     JMMPt1[shape=point]
     JMM -> JMMPt1 -> {volatile synchronized}[weight=100]
     Semaphore -> AQS[style=dashed, weight=1, dir=none]
-    java并发包Pt -> {AQS Lock}[weight=100]
+    jucPt -> {AQS Lock}[weight=100]
     JVM -> {运行时数据区域 gc}[weight=100]
     gc -> {垃圾收集器 垃圾回收算法}[weight=100]
+
+    {永生代 metaspace} -> 方法区[style=dashed, weight=1, dir=none]
+    运行时数据区域Pt[shape=point]
+    运行时数据区域 -> 运行时数据区域Pt -> {本地内存 JVM虚拟机数据区}[weight=100]
+    JVM虚拟机数据区Pt[shape=point]
+    JVM虚拟机数据区 -> JVM虚拟机数据区Pt -> {gc堆 程序计数器 本地方法堆栈 java虚拟机栈}[weight=100]
+    本地内存Pt[shape=point]
+    本地内存 -> 本地内存Pt -> {直接内存 metaspace}[weight=100]
+    gc堆Pt[shape=point]
+    gc堆 -> gc堆Pt -> {新生代 老年代 永生代}[weight=100]
+    springPt3[shape=point]
+    spring -> springPt3 -> {spring_spi SpringFactoriesLoader}
+    mybatis -> pagehelper[style=dashed, weight=1, dir=none]
+    spring_boot -> {manifest classloader}[style=dashed, weight=1, dir=none]
 }
